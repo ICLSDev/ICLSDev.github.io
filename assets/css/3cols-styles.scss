@@ -1,0 +1,52 @@
+---
+---
+@import "rwd";
+
+    #main {
+        min-height: 500px;
+        margin: 0px;
+        padding: 0px;
+        display: flex;
+        flex-flow: row;
+    }
+ 
+    #main > article {
+        margin: 4px;
+        padding: 15px;
+        border: 1px solid #cccccc;
+        flex: 3 1 60%;
+        order: 2;
+    }
+
+    #main > nav {
+        margin: 4px;
+        padding: 0px;
+        border: 0px solid #cccccc;
+        flex: 1 6 15%;
+        order: 1;
+    }
+  
+    #main > aside {
+        margin: 4px;
+        padding: 5px;
+        border: 1px solid #cccccc;
+        flex: 1 6 25%;
+        order: 3;
+    }
+
+    /* Too narrow to support three columns */
+    @media all and (max-width: 640px) {
+        #main, #page {
+            flex-direction: column;
+        }
+
+        #main > article, #main > nav, #main > aside  {
+        /* Return them to document order */
+            order: 0;
+        }
+  
+        #main > nav, #main > aside, header{
+            min-height: 50px;
+
+        }
+    }

@@ -1,0 +1,18 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+	  <link rel="stylesheet" href="/assets/css/2cols-styles.css">
+  </head>
+  <body>
+    <header><div id='logo'></div></header>
+    <div id='topmenu'>{% include topmenu.html %}</div>
+    <div id='main'>
+      <aside>{% include bulletin.html %}</aside>
+      <article>{{ content }}</article>     
+    </div>
+    <footer>{% include footer.html %}</footer>
+    
+  </body>
+</html>
