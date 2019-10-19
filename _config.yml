@@ -28,6 +28,11 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
+semester: 2019 Fall
+online_end: Sep. 7th, 2019
+semester_start: Sep. 8th, 2019
+semester_end: Dec. 15th, 2019 
+
 
 # Build settings
 theme: minima

@@ -1,0 +1,22 @@
+
+<div class='tablemenu'>
+           <div class='tablemenutitle'>ICLS Information</div>
+           <ul>
+  {% for item in site.data.about_icls %}
+             <li>
+               <a href="{{ item.link }}">{{ item.name }}</a>
+             </li>
+  {% endfor %}        
+           </ul>
+        </div>
+
+<div class='tablemenu'>
+           <div class='tablemenutitle'>ICLS Policy</div>
+           <ul>
+  {% for item in site.data.about_policy %}
+             <li>
+               <a href="{{ item.link }}">{{ item.name }}</a>
+             </li>
+  {% endfor %}        
+           </ul>
+        </div>
