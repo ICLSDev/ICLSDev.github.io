@@ -4,7 +4,7 @@ title: Fall, 2019 Registration
 author: webmaster
 ---
 
-Welcome to {{ site.semester }} semester. Registration is now available.
+Registration is now open for 2019 Fall semester. Clink on "Registration" link in the menu to start
 * On-line registration deadline: 12:00 pm, {{ site.online_end }}
 * Tuition fee payment and on-site registration: 1:30 pm ~ 3:00 pm, {{ site.semester_start }}
 

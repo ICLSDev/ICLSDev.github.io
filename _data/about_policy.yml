@@ -1,6 +1,8 @@
 - name: School Policy
   link: /policy.html
+- name: Registration Policy
+  link: /registration_policy.html  
 - name: Privacy Policy
   link: /privacy.html
 - name: Liability Waiver
-  link: / .html
+  link: /liability.html

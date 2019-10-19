@@ -1,6 +1,7 @@
 ---
 layout: rwd3cols
 title: School Program
+permalink: /program.html
 ---
 ## {{ page.title }}
 

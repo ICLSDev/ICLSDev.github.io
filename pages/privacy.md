@@ -1,6 +1,7 @@
 ---
 layout: rwd3cols
 title: Privacy
+permalink: /privacy.html
 ---
 ## {{ page.title }}
 

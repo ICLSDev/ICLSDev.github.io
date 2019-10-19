@@ -2,11 +2,13 @@
 layout: rwd3cols
 title: Classes
 ---
-# Fall, 2019 Classes Information 
+## Fall, 2019 Classes Information 
 
 First Day of Class: September 8th, 2019
 
 Last Day of Class: December 15th, 2019
+
+### Language Classes
 
 | Class*        | Textbook/Material          | Teacher | Note |
 |:-------------|:------------------|:------|:------|
@@ -18,12 +20,23 @@ Last Day of Class: December 15th, 2019
 | BCC6 	| 暨南大学《中文》 第6册 	| Li, Xiangning | | 
 | BCC8 	| 暨南大学《中文》 第8册 	| Fei, Aihua || 
 | BCC10 	| 暨南大学《中文》 第9,10册 	| Wei Ran | | 
-| Adult English 	| Integrated Chinese 	| Gao, Jing | | 
-| Senior English 	| by Teacher 	| Yang Ching-Hui | | 
+| Adult Chinese 	| Integrated Chinese 	| Gao, Jing | | 
+
+
+### Non-Language Classes
+
+| Class*        | Textbook/Material          | Teacher | Note |
+|:-------------|:------------------|:------|:------|
 | Chess 1 	| By Teacher 	| Jim Freerksen 	| | 
 | Chess 2 	| By Teacher 	| Katie Freerksen | | 
 | Drawing 	| by Teacher 	| Shao Tingting | | 
 | Basketball 	| by Teacher 	| Morgan Knight | 
+
+### Community/Free Classes
+
+| Class        | Textbook/Material          | Teacher | Note |
+|:-------------|:------------------|:------|:------|
+| Senior English 	| by Teacher 	| Yang Ching-Hui | | 
 | Zumba *** 	| by Teacher 	| Helen Lin | | 
 
 Notes

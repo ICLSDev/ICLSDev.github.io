@@ -1,6 +1,7 @@
 ---
 layout: rwd3cols
 title: About
+permalink: /about.html
 ---
 ## About ICLS
 

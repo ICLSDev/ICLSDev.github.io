@@ -1,6 +1,7 @@
 ---
 layout: rwd3cols
-title: Liability Waiver   
+title: Liability Waiver
+permalink: /liability.html
 ---
 ## {{ page.title }}
 

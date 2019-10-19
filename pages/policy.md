@@ -1,6 +1,7 @@
 ---
 layout: rwd3cols
 title: School Policy \ 学校守则
+permalink: /policy.html
 ---
 ## {{ page.title }}
 
