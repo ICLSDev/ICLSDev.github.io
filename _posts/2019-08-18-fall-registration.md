@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Fall, 2019 Registration
-author: webmaster
+author: ICLS
+categories: [frontpage]
 ---
 
 Registration is now open for 2019 Fall semester. Clink on "Registration" link in the menu to start
