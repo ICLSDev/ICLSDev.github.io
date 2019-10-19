@@ -20,15 +20,12 @@ Registration is now open for 2019 Fall semester. Clink on "Registration" link in
 
 
 {% include_relative 2019-fall-classes.md %}
-
  
 
 Thank you for your continuous support and we look forward to serving every student in the new semester.
-
  
-
 The Board of ICLS
 
-ICLS is a non-profit, volunteer-based 501(c) (3), racially nondiscriminatory and equal opportunity organization.
+
 
 
