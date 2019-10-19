@@ -1,92 +1,6 @@
 body {
         font: 12px "proxima-nova", sans-serif;
     }
-      #topmenu{
-        background-color: #cccccc;
-        background-repeat: repeat-x;
-        background-attachment: scroll;
-        background-position: 0 0;
-        height: 30px;
-        margin: 0px 4px;
-        padding: 0px 5px;
-      }
-      
-      #topmenu ul{
-        list-style: none;    
-        margin: 0px;
-        padding: 0px;       
-      }
-      
-      #topmenu ul li{
-        display: block;
-        float: left;
-        border: 0;
-      }
-      #topmenu ul li a{
-        font-weight: bold;
-        height: 30px;
-        line-height: 30px;
-        padding: 0 20px;
-        color: #000080;
-        text-decoration: none;
-      }
-      
-      .tablemenu{
-        display: block;
-        border-width: 0px 1px 1px 1px;
-        border-color: #cccccc;
-        border-style: solid;
-		  margin-bottom: 15px
-      }
-      .tablemenutitle{
-        font-weight: bold;
-        color: #000080;
-        padding: 4px 20px 0px 20px;
-        height: 20px;
-        background: url(/assets/images/topmitte.gif) repeat-x;
-      }
-      .tablemenu ul{
-        list-style: none;    
-        margin: 0px;
-        padding: 0px;  
-      }
-      .tablemenu ul li{
-        display: block;
-        border-width: 1px 0px 0px 0px;
-        border-color: #cccccc;
-        border-style: solid;
-        padding-top: 3px;
-        padding-bottom: 3px;
-      }
-      .tablemenu ul li a{
-        padding: 5px 20px;
-        color: #003456;
-        text-decoration: none;
-      }
-      
-    header{
-        display: block;
-        margin: 4px;
-        padding: 20px;
-        min-height: 75px;
-        background: url(/assets/images/header.gif) repeat-x;
-        border: 1px solid #cccccc;
-    }
-      
-     #logo{
-       background: url('/assets/images/banner.jpg');
-       height: 75px;
-       background-repeat: no-repeat;
-      }
-      
-    footer {
-        display: block;
-        margin: 4px;
-        padding: 10px 5px;
-        font: 10px Helvetica;
-        border: 1px solid #cccccc;
-      text-align: center;
-    }
 
 h1, h2, h3, h4, h5, h6 {
   color:#222;
@@ -178,3 +92,89 @@ dt {
 th {
   color:#444;
 }
+    header{
+        display: block;
+        margin: 4px;
+        padding: 20px;
+        min-height: 75px;
+        background: url(/assets/images/header.gif) repeat-x;
+        border: 1px solid #cccccc;
+    }
+    footer {
+        display: block;
+        margin: 4px;
+        padding: 10px 5px;
+        font: 10px Helvetica;
+        border: 1px solid #cccccc;
+      text-align: center;
+    }
+ 
+      #topmenu{
+        background-color: #cccccc;
+        background-repeat: repeat-x;
+        background-attachment: scroll;
+        background-position: 0 0;
+        height: 30px;
+        margin: 0px 4px;
+        padding: 0px 5px;
+      }
+      
+      #topmenu ul{
+        list-style: none;    
+        margin: 0px;
+        padding: 0px;       
+      }
+      
+      #topmenu ul li{
+        display: block;
+        float: left;
+        border: 0;
+      }
+      #topmenu ul li a{
+        font-weight: bold;
+        height: 30px;
+        line-height: 30px;
+        padding: 0 20px;
+        color: #000080;
+        text-decoration: none;
+      }
+     #logo{
+       background: url('/assets/images/banner.jpg');
+       height: 75px;
+       background-repeat: no-repeat;
+      }
+      
+      .tablemenu{
+        display: block;
+        border-width: 0px 1px 1px 1px;
+        border-color: #cccccc;
+        border-style: solid;
+		  margin-bottom: 15px
+      }
+      .tablemenutitle{
+        font-weight: bold;
+        color: #000080;
+        padding: 4px 20px 0px 20px;
+        height: 20px;
+        background: url(/assets/images/topmitte.gif) repeat-x;
+      }
+      .tablemenu ul{
+        list-style: none;    
+        margin: 0px;
+        padding: 0px;  
+      }
+      .tablemenu ul li{
+        display: block;
+        border-width: 1px 0px 0px 0px;
+        border-color: #cccccc;
+        border-style: solid;
+        padding-top: 3px;
+        padding-bottom: 3px;
+      }
+      .tablemenu ul li a{
+        padding: 5px 20px;
+        color: #003456;
+        text-decoration: none;
+      }
+      
+      
