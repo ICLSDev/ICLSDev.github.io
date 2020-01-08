@@ -23,6 +23,7 @@
 | Drawing 	| By Teacher 	| Shao Tingting | | 
 | Chess 1 	| By Teacher 	| (TBD) 	| | 
 | Chess 2 	| By Teacher 	| Jim Freerksen | | 
+| Zumba 	| By Teacher 	| Helen Lin | | 
 
 
 ### Community Classes
@@ -30,7 +31,7 @@
 | Class        | Textbook/Material          | Teacher | Note |
 |:-------------|:------------------|:------|:------|
 | Senior English 老人英语	| By Teacher 	| Yang Ching-Hui | Free of Charge 免费 | 
-| Zumba  	| By Teacher 	| Helen Lin | Onsite registration only, cost TBD | 
+
 
 Notes
 
