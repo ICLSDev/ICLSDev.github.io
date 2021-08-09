@@ -8,4 +8,4 @@ First Day of Class: {{ site.semester_start }}
 
 Last Day of Class: {{ site.semester_end }}
 
-{% include_relative _posts/2020-fall-classes.md %}
+{% include_relative _posts/2021-fall-classes.md %}
