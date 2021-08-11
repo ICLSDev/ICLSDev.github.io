@@ -20,7 +20,7 @@
 
 | Class        | Textbook/Material          | Teacher | Note |
 |:-------------|:------------------|:------|:------|
-| Senior English 老人英语	| By Teacher 	| Yang Ching-Hui |  | 
+| Senior English 老人英语	| By Teacher 	| Yang Ching-Hui | Free class, donation welcomes | 
 | Zumba	| By Teacher 	| Lin, Helen |  |
 | Chess 1&2	| By Teacher 	| Freerksen, Jim |  |
 | Drawing	| By Teacher 	| Li，Yufei |  |
