@@ -15,7 +15,7 @@ Iowa Chinese Language School will offer in-person Chinese classes in Fall semems
 | Language class | $160  | $180  |
 | Non-language class | $80    | $90  |
 
-{% include_relative 2019-fall-classes.md %}
+{% include_relative 2021-fall-classes.md %}
 
 
 Iowa Chinese Language School / 爱华中文学校	
