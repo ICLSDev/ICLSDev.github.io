@@ -16,7 +16,7 @@
 | BCC10 	| 暨南大学《中文》 第10册 	| Wei Ran |  | 
 | Adult Chinese 	| Integrated Chinese 	| Gao, Jing |  | 
 
-### Community Classes
+### Non-language Classes
 
 | Class        | Textbook/Material          | Teacher | Note |
 |:-------------|:------------------|:------|:------|
