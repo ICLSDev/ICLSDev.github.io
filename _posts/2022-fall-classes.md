@@ -19,6 +19,7 @@
 
 | Class        | Textbook/Material          | Teacher | Note |
 |:-------------|:------------------|:------|:------|
+| Drawing	| By Teacher 	| Li, YuFei |  | 
 | Senior English 老人英语	| By Teacher 	| Yang Ching-Hui | Free class, donation welcomes | 
 
 
