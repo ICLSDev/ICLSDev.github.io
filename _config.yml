@@ -28,10 +28,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: iowa_school
 github_username:  iclsdev
-semester: 2022 Fall
-online_end: Sept. 10th, 2022
-semester_start: Sept. 11th, 2022
-semester_end: Dec. 11th, 2022
+semester: 2023 Spring
+online_end: Jan. 14th, 2023
+semester_start: Jan. 15th, 2023
+semester_end: May 21st, 2023
 
 
 # Build settings
