@@ -3,7 +3,7 @@
 
 | Class        | Textbook/Material          | Teacher | Note |
 |:-------------|:------------------|:------|:------|
-| ECC 	| Chinese Made Easy  	| Li，Yufei 	|  | 
+| ECC 	| Chinese Made Easy  	| (TBD) 	|  | 
 | PRK 	| 幼儿汉语   	| (TBD)	|  | 
 | BCC1 	| 暨南大学《中文》 第1,2册 	| Laura Cheng |  | 
 | BCC3 	| 暨南大学《中文》 第3册 	| (TBD) |  | 
@@ -19,7 +19,6 @@
 
 | Class        | Textbook/Material          | Teacher | Note |
 |:-------------|:------------------|:------|:------|
-| Drawing	| By Teacher 	| Li, YuFei |  | 
 | Senior English 老人英语	| By Teacher 	| Yang Ching-Hui | Free class, donation welcomes | 
 
 
