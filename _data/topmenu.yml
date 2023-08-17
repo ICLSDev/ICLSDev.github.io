@@ -3,9 +3,9 @@
 - name: About
   link: /about.html
 - name: Registration
-  #link: https://registration.iowachineseschool.org
+  link: https://registration.iowachineseschool.org
   #link: /registration_info.html
-  link: /registration_onsite.html
+  #link: /registration_onsite.html
   #link: https://forms.gle/UbDimZXMaPPNbAWL6
 - name: Contact
   link: /contact.html
