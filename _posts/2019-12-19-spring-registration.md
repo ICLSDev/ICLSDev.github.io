@@ -2,7 +2,6 @@
 layout: post
 title: Spring, 2020 Registration
 author: ICLS
-categories: [frontpage]
 ---
 
 Registration is now open for 2020 Spring semester. Clink on "Registration" link in the menu to start
