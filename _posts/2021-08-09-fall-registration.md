@@ -2,7 +2,6 @@
 title: Fall 2021 Registration  
 layout: post
 author: ICLS
-categories: [frontpage]
 ---
 Iowa Chinese Language School will offer in-person Chinese classes in Fall sememster 2021. School will start on September 12th.
 	
