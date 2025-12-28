@@ -2,7 +2,7 @@
 title: Spring 2025 Registration  
 layout: post
 author: ICLS
-categories: [frontpage]
+# categories: [frontpage]s
 ---
 Iowa Chinese Language School will offer in-person Chinese classes in Spring sememster 2025. School will start on Jan. 12th.
 	

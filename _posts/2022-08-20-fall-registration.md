@@ -2,7 +2,7 @@
 title: Fall 2022 Registration  
 layout: post
 author: ICLS
-categories: [frontpage]
+# categories: [frontpage]
 ---
 Iowa Chinese Language School will offer in-person Chinese classes in Fall sememster 2022. School will start on September 11th.
 	
