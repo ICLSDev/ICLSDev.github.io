@@ -2,7 +2,7 @@
 title: Spring 2024 Registration  
 layout: post
 author: ICLS
-categories: [frontpage]
+# categories: [frontpage]
 ---
 Iowa Chinese Language School will offer in-person Chinese classes in Spring sememster 2024. School will start on Jan 14th.
 	

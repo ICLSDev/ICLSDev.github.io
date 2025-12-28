@@ -2,7 +2,7 @@
 title: Fall 2023 Registration  
 layout: post
 author: ICLS
-categories: [frontpage]
+# categories: [frontpage]
 ---
 Iowa Chinese Language School will offer in-person Chinese classes in Fall sememster 2023. School will start on Jan 15th.
 	
