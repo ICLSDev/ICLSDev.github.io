@@ -2,13 +2,10 @@
 
 | Class        | Textbook/Material          | Teacher | Note |
 |:-------------|:------------------|:------|:------|
-| ECC	| Easy Chinese  | Mia Brown	|  | 
-| ECC2 	| Chinese Vol.1  | Zhang, Xiaoqiao	|  | 
-| BCC1 	| Chinese Vol.1  | Huang, Weixing |  | 
+| BCC1 	| Chinese Vol.1  | (TBD)) |  | 
 | BCC2 	| Chinese Vol.2  | Huang, Weixing |  | 
-| BCC3 	| Chinese Vol.3  | (TBD) |  | 
-| BCC4 	| Chinese Vol.4-5  | (TBD) |  | 
-| BCC6 	| Chinese Vol.6,7,8| (TBD) |  | 
+| BCC3 	| Chinese Vol.3  | Huang, Weixing |  | 
+| BCC4 	| Chinese Vol.4  | (TBD) |  | 
 | BCC9 	| Chinese Vol.9  | Laura Cheng  |  | 
 | Adult Chinese 	| Integrated Chinese 	| Li, Xiangning |  | 
 
